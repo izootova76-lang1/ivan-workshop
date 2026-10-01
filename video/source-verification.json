@@ -1,0 +1,100 @@
+{
+  "commit": "1b03153711bc79092b1d3f9febfc11b6df0fbc92",
+  "files": [
+    {
+      "file": "app.js",
+      "status": 200,
+      "same": false,
+      "normalized": true,
+      "sha256": "4c03eb970321b9e7e679b5ee631c42b775ed8327c0e4b5e31eb0b54e47882314"
+    },
+    {
+      "file": "glass.css",
+      "status": 200,
+      "same": false,
+      "normalized": true,
+      "sha256": "01db99fe05110b731027d809f7c636ee2fda389063c1b340a72871cff730c8fc"
+    },
+    {
+      "file": "index.html",
+      "status": 200,
+      "same": false,
+      "normalized": true,
+      "sha256": "fb5e8b6f3b40292097c45e151b436b21a364dc7d0516f9f6bda6408f23f10257"
+    },
+    {
+      "file": "ivan-hero.png",
+      "status": 200,
+      "same": true,
+      "normalized": false,
+      "sha256": "3e71f67ed8faa467cd559740110e48a61067d654104d064fd3ee0cf1da624c27"
+    },
+    {
+      "file": "ivan-night.png",
+      "status": 200,
+      "same": true,
+      "normalized": false,
+      "sha256": "14df1d47d2802870067b34ff52640a433b9439dbaaec3222d45c9e8fb20f6221"
+    },
+    {
+      "file": "light-ribbons.svg",
+      "status": 200,
+      "same": false,
+      "normalized": true,
+      "sha256": "cc38ddd6f5f55f0fbbd7dae237aea5376b125219ac51b96fbb74c766b7f35861"
+    },
+    {
+      "file": "motion.js",
+      "status": 200,
+      "same": false,
+      "normalized": true,
+      "sha256": "d25cb97e68507c2dba223b7d16dd3e130a262d901d33a670a0bc1a71762c86d2"
+    },
+    {
+      "file": "night.css",
+      "status": 200,
+      "same": false,
+      "normalized": true,
+      "sha256": "9c3f7c5e9ef32e8f46784f34bf6380b2004c9a7ce4aecfb9f7bd157ce203a4dd"
+    },
+    {
+      "file": "readable.css",
+      "status": 200,
+      "same": false,
+      "normalized": true,
+      "sha256": "5902e60c8eccefef6fcddbe2b5984e0320b1c89a577d57090c835a1e35bf651f"
+    },
+    {
+      "file": "refine.js",
+      "status": 200,
+      "same": false,
+      "normalized": true,
+      "sha256": "237e9c86ceac690b440135671a28a1f03c41039286f572bbe08c7028ab3febd2"
+    },
+    {
+      "file": "style.css",
+      "status": 200,
+      "same": false,
+      "normalized": true,
+      "sha256": "3b50a2dbd2132d658ce56681ea45d7abf0d758414a6e006aa3a5436f8071318a"
+    }
+  ],
+  "browser": [
+    {
+      "url": "http://127.0.0.1:4173",
+      "blocks": 5,
+      "yellow": "Детали есть. Пора их связать\n\nСильные элементы уже есть, но они ещё не связаны в одну ясную систему.",
+      "result": "УСЛОВНЫЙ РЕЗУЛЬТАТ · 6 ИЗ 12\n\nЖёлтая зона\n\nОснова уже есть, но полки пока не подписаны. 😄\n\nСвяжите темы публикаций с вашими предложениями и добавьте понятный следующий шаг.\n\nНо настоящий Иван работает строже. Он не верит вам на слово — ему подавай доказательства. 😄\n\nНастоящая экспресс-диагностика строится не на галочках, а на реальных материалах канала.\n\nКак получился цвет?",
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "url": "https://izootova76-lang1.github.io/ivan-workshop/",
+      "blocks": 5,
+      "yellow": "Детали есть. Пора их связать\n\nСильные элементы уже есть, но они ещё не связаны в одну ясную систему.",
+      "result": "УСЛОВНЫЙ РЕЗУЛЬТАТ · 6 ИЗ 12\n\nЖёлтая зона\n\nОснова уже есть, но полки пока не подписаны. 😄\n\nСвяжите темы публикаций с вашими предложениями и добавьте понятный следующий шаг.\n\nНо настоящий Иван работает строже. Он не верит вам на слово — ему подавай доказательства. 😄\n\nНастоящая экспресс-диагностика строится не на галочках, а на реальных материалах канала.\n\nКак получился цвет?",
+      "overflow": false,
+      "errors": []
+    }
+  ]
+}
